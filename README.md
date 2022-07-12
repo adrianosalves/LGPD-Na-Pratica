@@ -101,4 +101,82 @@ O que ele faz? Art. 41 explica isso. Existe um regulamentação nova que ainda v
 18. Profissional de Classificação de Dados.
 . Trabalhar com o Metaverso.
 
+19. Metaverso...
+
+20. Gestão de Dados
+
 O Grande Aprendizado: Eu aprendi como a area da LGPD possue uma area ampla para se atuar com a LGPD, e escolher a area que melhor eu posso me encaixar.
+
+# Data: 12/07/2022
+Tema: Mitos e Verdades sobre a Lei Geral de Proteção de Dados
+
+O foi ensinado? 
+
+6 mitos:
+
+1º. Essa Lei não vai pegar!. Ja pegou 980 empresas com 600 decisões judiciais e abisolvição.
+. JOTABS - Dono da Friboi estava adequada
+. Sindicato de Produtos Alimenticios - Perdeu a ação...
+
+Abrir o site da ANPPD/violacoes:
+
+https://anppd.org/violacoes
+
+Emenda n° 115 Art. 5/79.
+
+2º. Minha empresa não precisa se adequar. Ja falei com meu advagado e meu contador e não precisa se adequar!
+. Todas as empresas precisam se adequar.
+. Incluido as igrejas.
+
+É obrigatorio comunicar a ANPD sobre um incidente de segurança.
+
+MEI - não precisa ter DPO, mas precisa ter um articulador entre a ANPD.
+
+Não existe crime para um DPO por não proteger os dados. Mas se ele causar danos para a empresa, negligencia, culpa e dolo.
+
+3º. Eu ja estou 100% adequado. Porem não existe empresa 100% adequada porque a LGPD não está 100% adequada a LGPD (65 artigos, porem alguns ainda está em tramite)...
+
+É necessário certificação para trabalhar com a LGPD? Não precisa... Porem o mercado incentiva a certificação.
+
+LGPD e GDPR são diferentes, apenas ambas estão em harmonia.
+
+4°. Juridico, diz que faz adequação sozinho? Não! precisam do pessoal da Tecnologia da Informação.
+
+5°. Adequação e somente a politica de privacidade do site!. 
+. Essa é somente criada no passo 5 do processo de adequação.
+
+5 verdades:
+
+1º A adequação é multidiciplinas: Juridico, Tecnologia, TI, Gestao, Processos, Complaice, Governança.
+
+2º Somente ler a Lei não deixa voce apto para adequar a LGPD!. Porque a LGPD está em constante mudança, e as vezes voce estuda e pode não estar muito focado e pode passar algo ou um detalhe da lei que voce não percebeu. E existe muitos processos profundo sobre a adequação que a LGPD não ensina.
+
+3° Não existe Adequação recorta e cola: isso pode ser plagio, existe ferramentas para detectar esse tipo de copia. Cada empresa tem um processo de adequação.Não existe uma formula mágica. Isso pode ser considerado má fé e pode ser penalizada.
+
+4° Não existe esquema na adequação: Exemplo canvas, mapa mental. Tome muito cuidado!
+Não tem como adequar uma empresa em 7 ou 30 dias.
+
+5° Não existe adequação com segredos.
+
+. DPO
+. Consultor
+. Comite e etc...
+
+Precisa ter acesso as informações para que esteja no radar da adequação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Grande Aprendizado:
+
+
