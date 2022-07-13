@@ -27,15 +27,15 @@ Instrutora: Silvia Bruneli do Lago (Advogada)
 
 Que são as personagens: 
 
-1. Titular
-2. Controlador
-3. Operador
-4. Encarregado de Proteção de Dados (DPO)
+1. Titular 
+2. Controlador (Empresa que faz o tratamento dos dados)
+3. Operador (Empresa ou Pessoa)
+4. Encarregado pelo Tratameto de Dados Pessoais (DPO)
 5. ANPD (Autoridade Nacional)
 
 65% porcentos trabalha em profissões que não existiam.
 
-A LGDP Criou 18 novas profissões.
+A LGDP Criou 20 novas profissões.
 
 1. Encarregado de Tratamento de Dados Pessoais. (DPO)
 . Definido pela Lei, é uma profissão muito importante. ANPPD - Associação Nacional de Profissional de Proteção de Dados. DPO existe um número para ser registrado.
@@ -163,6 +163,111 @@ Não tem como adequar uma empresa em 7 ou 30 dias.
 . Comite e etc...
 
 Precisa ter acesso as informações para que esteja no radar da adequação.
+
+# Data: 13/07/2022
+
+Tema: Direitos do Titular na Lei Geral de Proteção de Dados
+
+O foi ensinado?
+
+Onde está na LGPD os direitos dos Titulares?
+Art. 9 e 18
+
+O titular tem o direito de acesso as informações dos tratamento dos dados pessoais.
+
+1° Primeiro direito:
+
+Art. 5/5 ...
+
+Art 5/10 - Existe 20 formas de tratamento. Tratamento é:...
+
+Art. 9 O titular tem que ter acesso simplificado sobre as 20 formas de tratamento dos seus dados de forma clara e adequada e ter livre acesso aos tratamento dos dados e qual finalidade especifica!. Isso segue o principio da transparencia.
+
+As clausula não pode ser GENERICA.
+
+Cada departamento vai tratar os dados do titular com uma finalidade especifica.
+
+Na LGPD existe 20 hipoteses de tratamentos!
+
+Forma e duração do tratamento? Exite normas e lei que exige que se guarda por uma quantidade de anos.
+
+3º Identificação do Controlador:
+
+A empresa que esta tratando os dados.
+
+Isso precisa esta claro dentro da politica de privacidade dentro do seu site e precisa ter 'Razao Social, CNPJ e Endereço.'
+
+Importande se os dados estiver compartilhamento de dados qual a finalidade do compartilhamento inclusive internacional? 
+
+Art. 33 ...
+
+Ferramenta Gratuita para identificar plagio de politica de privacidade.
+
+Empresa de Direito Privado, funcionario, empregado e são os termos correto. Não use as seguintes expressões 'Organização' e 'Colaborador' na sua politica de privacidade.
+
+Como abordar uma empresa? Pelo canal e ela tem o prazo de 15 dias.
+
+6º Responsabilidade dos Agentes
+
+. Art 5: São operador e o controlador...
+
+Informar aos titular as responsabilidade de cada um dos agentes.
+
+. Art 9
+  1. ...negado se estiver conteudo enganoso!
+  2. ...mudança de tratamento for mudado precisa ser informado ao titular!
+  
+  Usar o consentimento é uma furada!
+  
+7° Direito do Titular
+  . Ele precisa entrar em contato com o Titular e não com o Controlador.
+  . Mediante requisição! Atraves de um canal com um acesso gratuito ex: 0800, email, formulario no site.
+  . Precisa confirmar a existencia do tratamento...
+  . A o controlador precisa confirmar o tratamento dos dados e a existencia.
+  . Correção de Dados incompleto e desatualizados.
+  
+  
+8° Anonimização
+   . Não sabemos quem é a pessoa!
+   . E não pode ser revertida mais...
+   . E nem controlador pode saber quem é....
+
+9° Portabilidade 
+  . Temos direito de solicitar para outro fornecedor...
+  
+10º Eliminaçao dos dados
+  . Revogação dos dados tratado com consentimento.
+  
+11° Compartilhamento de Dados
+  . Coloque na politica de privaciade com quem voce compartilha os dados.
+  . 
+  
+  Art 18. ... sobre consentimento..
+  
+12° 
+  . Telemarketing não pode te ligar para vender produto, apenas para cobrar!
+    
+Art 19,20,21 e 22 
+
+  . 
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Grande Aprendizado:
 
 
 
